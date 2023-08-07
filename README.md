@@ -7,5 +7,7 @@ APIs:
     -ENDPOINT= `https://cataas.com/cat/says/${firstWord}?size=50&color=red&json=true`
 
 [ X ] Recupera un hecho aleatorio de gatos de la primera API
+
 [ X ] Recuperar la primera palabra del hecho
+
 [ X ] Muestra una imagen de un gato con la primera palabra.# Entrevista-tecnica-MiduDev
